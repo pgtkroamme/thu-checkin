@@ -78,6 +78,7 @@ data = {
     "return_dest_detail": "",
     "other_detail": "\uFFFD",
     # https://twitter.com/tenderlove/status/722565868719177729
+    # WTF is this above
 }
 
 # Set "in_school" only when located in the right city
